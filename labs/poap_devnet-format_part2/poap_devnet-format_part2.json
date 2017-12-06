@@ -2,13 +2,14 @@
   "labId": "poap_devnet-format_part2",
   "title": "Power On Auto Provisioning (POAP) on Nexus Switches, Part 2",
   "slug": "Boostrapping Nexus Switches with POAP",
-  "time": "30",
+  "time": "60",
   "tags": [
     {"title": "POAP"},
     {"title": "DHCP"},
-    {"title": "TFTP"},
     {"title": "Networking"},
-    {"title": "SDN"}
+    {"title": "SDN"},
+    {"title": "NX-OS"},
+    {"title": "Data Center"}
   ],
   "files": [
     {"title": "1.md"},
